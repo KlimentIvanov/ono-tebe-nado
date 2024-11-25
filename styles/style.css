@@ -258,12 +258,9 @@
 }
 
 .footer__social-list {
-  list-style: none;
-}
-
-.footer__social-list {
   display: flex;
   gap: 48px;
+  list-style: none;
   justify-self: end;
 }
 
